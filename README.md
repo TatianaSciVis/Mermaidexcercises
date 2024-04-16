@@ -1,5 +1,5 @@
 # Mermaidexcercises
- '''mermaid
+```mermaid
  
  flowchart LR
     A([Graph]) --> B(different types)
@@ -13,4 +13,4 @@
     A -->D(complexity)
     D--> option1
     D--> option2
-'''
+```
