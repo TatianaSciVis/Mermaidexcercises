@@ -1,4 +1,6 @@
 # Mermaidexcercises
+ '''mermaid
+ flowchart LR
  A([Graph]) --> B(different types)
     B--> scatterplot
     B--> pie 
