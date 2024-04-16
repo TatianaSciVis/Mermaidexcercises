@@ -1,5 +1,5 @@
 # Mermaidexcercises
-  A([Graph]) --> B(different types)
+A([Graph]) --> B(different types)
 B--> scatterplot
 B--> pie 
 B--> histogram
