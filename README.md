@@ -1,7 +1,8 @@
 # Mermaidexcercises
  '''mermaid
+ 
  flowchart LR
- A([Graph]) --> B(different types)
+    A([Graph]) --> B(different types)
     B--> scatterplot
     B--> pie 
     B--> histogram
@@ -12,3 +13,4 @@
     A -->D(complexity)
     D--> option1
     D--> option2
+'''
